@@ -1,0 +1,3 @@
+﻿Hello Git
+Git is awesome
+This was added on GitHub by a teammate
